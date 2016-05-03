@@ -1,6 +1,6 @@
 # md-to-html
 
-CLI tool to transform given files from markdown to html
+CLI shortcut to transform given files from markdown to html
 
 Example of use:
 
